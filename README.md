@@ -13,3 +13,5 @@
   - institutional e-mail: renan.ricoldi@uel.br
   - institutional github: [rricoldi](https://github.com/rricoldi)
 - 🔊 Just love listening to podcasts and music while coding.
+
+[![Renan's github stats](https://github-readme-stats.vercel.app/api?username=RenanRicoldi&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
