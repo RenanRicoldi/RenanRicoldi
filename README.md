@@ -27,5 +27,5 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 **My stats:**  
 
-[![Renan's github stats](https://github-readme-stats.vercel.app/api?username=RenanRicoldi&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRicoldi&layout=compact&theme=synthwave&hide=Ruby,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
+[![Renan's github stats](https://github-readme-stats.vercel.app/api?username=RenanRicoldi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanRicoldi&layout=compact&hide=Ruby,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
