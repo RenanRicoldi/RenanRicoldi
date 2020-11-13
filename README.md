@@ -1,6 +1,6 @@
 ### Hi there 👋 Renan here 👨‍💻
 
-[![Linkedin: Renan](https://img.shields.io/badge/-renan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanricoldi/)](https://www.linkedin.com/in/renan-ricoldi/)
+[![Linkedin: Renan](https://img.shields.io/badge/-renan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanricoldi/)](https://www.linkedin.com/in/renanricoldi/)
 ![GitHub followers](https://img.shields.io/github/followers/RenanRicoldi?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="80"> A little more about me...
