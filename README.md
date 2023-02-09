@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" width="80"> A little more about me...
 
-- 🔭 I’m currently on the final year of Computer Science at [UEL](http://portal.uel.br/home) in Brazil 🗺.
+- 🔭 Bachelor’s degree in Computer Science at [UEL](http://portal.uel.br/home) in Brazil 🗺.
 - 👨🏻‍💻 Full Stack Developer at Luby Software.
 - 📫 How to reach me: 
   - e-mail: renan.ricoldi.frois@gmail.com
